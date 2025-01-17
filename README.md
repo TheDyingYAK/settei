@@ -1,5 +1,5 @@
 # settei
-Linux setup script/s for me
+Setup scripts for me
 
 ![alt text](img/2f528e85-8b5b-42ef-a609-2319aad10218.jpeg)
 
@@ -11,11 +11,6 @@ Linux setup script/s for me
 - https://github.com/eza-community/eza
 - https://github.com/tldr-pages/tlrc
 - https://github.com/nvbn/thefuck
-- 
-
-
-
-
 
 
 
