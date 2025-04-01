@@ -2,7 +2,7 @@ import os
 import subprocess
 
 # List of packages to install
-packages = ["fzf", "bat", "eza", "tlrc", "thefuck"]
+packages = ["fzf", "bat", "eza", "tlrc", "thefuck", "neovim", "neofetch",]
 
 def check_homebrew():
     """Check if Homebrew is installed, install if not."""
