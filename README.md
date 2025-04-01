@@ -1,7 +1,8 @@
 # settei
-Setup scripts for me
+Setup scripts for me, This is for my macbook m1, any kali that I use, and Arch Linux. 
 
 ![alt text](img/2f528e85-8b5b-42ef-a609-2319aad10218.jpeg)
+
 
 
 
