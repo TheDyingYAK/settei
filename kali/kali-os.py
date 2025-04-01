@@ -2,7 +2,7 @@ import os
 import subprocess
 
 # List of packages to install via apt
-apt_packages = ["fzf", "bat", "eza", "tlrc", "thefuck"]
+apt_packages = ["fzf", "bat", "eza", "tlrc", "thefuck", "neofetch", "neofetch",]
 
 def update_system():
     """Update the package lists to ensure we get the latest versions."""
